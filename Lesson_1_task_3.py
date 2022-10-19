@@ -1,7 +1,0 @@
-print('задача 3')
-_user_number = int(input('Введите ваше число '))
-_second_term = str(_user_number) + str(_user_number)
-_third_term = str(_user_number) + str(_user_number) + str(_user_number)
-print(str(_user_number) + " + " + _second_term + "+" + _third_term)
-_result = _user_number + int(_second_term) + int(_third_term)
-print (_result)
